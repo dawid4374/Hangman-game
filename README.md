@@ -1,6 +1,10 @@
 # Hangman Game
 
 
+## Aplistaion uses:
+
+React, hooks, random-word-api
+
 ### Application preview
 
 Playground view:
